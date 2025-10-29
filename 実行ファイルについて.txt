@@ -1,0 +1,2 @@
+オーバーフロー・DimensionalEnigmaの実行ファイルはファイル容量の関係で、
+GithubのReleaseの方にアップロードしております。
